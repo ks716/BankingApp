@@ -1,0 +1,25 @@
+openbank abc,bcd,cde,def999,1234 
+Savingsaccount 301011,Grimpson1,11-02-1975,Pittsburgh,grimpson@gmail.com,+0017878776769,1000.0,12.0
+debit 500.0
+Savingsaccount 301011,Grimpson2,11-02-1975,Pittsburgh,grimpson@gmail.com,+0017878776769,2000.0,12.0
+Savingsaccount 301011,Grimpson3,11-02-1975,Pittsburgh,grimpson@gmail.com,+0017878776769,4000.0,12.0
+credit 200.0
+debit 900.0
+Currentaccount 301011,Grimpson4,11-02-1975,Pittsburgh,grimpson@gmail.com,+0017878776769,1000.0
+Savingsaccount 301011,Grimpson5,11-02-1975,Pittsburgh,grimpson@gmail.com,+0017878776769,5000.0,12.0
+Savingsaccount 301011,Grimpson6,11-02-1975,Pittsburgh,grimpson@gmail.com,+0017878776769,7000.0,12.0
+debit 100.0
+Currentaccount 301011,Grimpson7,11-02-1975,Pittsburgh,grimpson@gmail.com,+0017878776769,1000.0
+debit 100.0
+credit 100.0
+credit 200.0
+holdings
+Checkingaccount 301011,Grimpson8,11-02-1975,Pittsburgh,grimpson@gmail.com,+0017878776769,1000.0
+Checkingaccount 301011,Grimpson9,11-02-1975,Pittsburgh,grimpson@gmail.com,+0017878776769,1000.0
+credit 500.0
+debit 500.0
+debit 1000.0
+holdings
+non-performing
+sortbyamount
+sortbytype

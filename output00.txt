@@ -1,0 +1,47 @@
+Bank opened with bank name: abc
+interest amount:120.0 Account created and interest added, balance in your account is: 1120.0 Account created in bank, acc number: 1
+After debit, balance in your account is: 620.0
+interest amount:240.0 Account created and interest added, balance in your account is: 2240.0 Account created in bank, acc number: 2
+interest amount:480.0 Account created and interest added, balance in your account is: 4480.0 Account created in bank, acc number: 3
+After credit, balance in your account is: 4680.0
+After debit, balance in your account is: 3780.0
+CurrentAccount created, balance in your account is: 1000.0 Account created in bank, acc number: 4
+interest amount:600.0 Account created and interest added, balance in your account is: 5600.0 Account created in bank, acc number: 5
+interest amount:840.0 Account created and interest added, balance in your account is: 7840.0 Account created in bank, acc number: 6
+After debit, balance in your account is: 7740.0
+CurrentAccount created, balance in your account is: 1000.0 Account created in bank, acc number: 7
+After debit, balance in your account is: 900.0
+After credit, balance in your account is: 1000.0
+After credit, balance in your account is: 1200.0
+Funds in main bank: 500000.0
+CheckingAccount created, balance in your account is: 1000.0 Account created in bank, acc number: 8
+CheckingAccount created, balance in your account is: 1000.0 Account created in bank, acc number: 9
+BankCharges: 15.0 Credit amount added after charging fee. After credit, balance in your account is: 1485.0
+BankCharges: 15.0 Debit amount deducted after charging fee. After debit, balance in your account is: 970.0
+Insufficient funds to withdraw the amount.
+Funds in main bank: 500030.0
+**Non-performing accounts**
+2 Grimpson2 2240.0 SavingsAccount
+4 Grimpson4 1000.0 CurrentAccount
+5 Grimpson5 5600.0 SavingsAccount
+8 Grimpson8 1000.0 CheckingAccount
+**Sort by amount**
+6 Grimpson6 7740.0 SavingsAccount
+5 Grimpson5 5600.0 SavingsAccount
+3 Grimpson3 3780.0 SavingsAccount
+2 Grimpson2 2240.0 SavingsAccount
+7 Grimpson7 1200.0 CurrentAccount
+4 Grimpson4 1000.0 CurrentAccount
+8 Grimpson8 1000.0 CheckingAccount
+9 Grimpson9 970.0 CheckingAccount
+1 Grimpson1 620.0 SavingsAccount
+**Sort by account type**
+8 Grimpson8 1000.0 CheckingAccount
+9 Grimpson9 970.0 CheckingAccount
+7 Grimpson7 1200.0 CurrentAccount
+4 Grimpson4 1000.0 CurrentAccount
+6 Grimpson6 7740.0 SavingsAccount
+5 Grimpson5 5600.0 SavingsAccount
+3 Grimpson3 3780.0 SavingsAccount
+2 Grimpson2 2240.0 SavingsAccount
+1 Grimpson1 620.0 SavingsAccount
